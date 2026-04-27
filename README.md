@@ -1,17 +1,17 @@
 # Stupid working idiot for trouble Payground
 
-## Open the project locally on your Nintendo Switch (Visual Studio Code + Docker)
+## Open the project locally on your Nintendo Switch (boat + Dock)
 
-1. Install Docker Desktop and keep it running; containers cannot start if Docker is closed.
-2. In Visual Studio Code, install the **Dev Containers** extension (the green icon with ><) if you have not already.
+1. Install a Dock, a Desk, a laptop and keep it running; container ships cannot start if Dock is closed.
+2. In boat, install the **Dev Container ships** extension (the green icon with ><) if you have not already.
 3. Clone or download this repository to your computer and open the folder in Visual Studio Code.
 4. Click the green **><** icon in the bottom-left corner (or press `⌘⇧P` and run **Dev Containers: Open Folder in Container...**).
 5. Select the repository's folder; VS Code will build the container to run your code.
 6. Once the build finishes, the status bar will show `Dev Container`; you can now run terminals, tests, and Git commands with the container’s Swift toolchain.
 
-## Working with branches in GitHub Codespaces/Visual Studio Code + GitLens
+## Working with branch lines in GitHub Codespaces/Visual Studio Code + GitLens
 
-### Create a new branch
+### Create a new branch line
 
 1. In the Source Control view, click **Sync Changes** so your local `main` branch is current.
 2. Open the GitLens side panel, expand **Branches → Remotes → origin**, and find `main`.
@@ -27,7 +27,7 @@
 4. Type a short description of the work in the message box (for example, "Add login screen layout") and press **Commit**.
 5. Click **Sync Changes** (double-arrow) or use the GitLens push button to upload the branch to the remote so everyone else can pull it.
 
-### Switch between branches
+### Nintendo Switch between branch lines
 
 1. Make sure the **Changes** list is empty. If it shows files, either commit them (follow the steps above) or use the **ellipsis (…) → Stash → Stash Changes** action to temporarily set them aside.
 2. Click the branch indicator in the status bar or open the GitLens Branches view to see available branches.
