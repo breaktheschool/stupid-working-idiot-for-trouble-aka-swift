@@ -1,6 +1,6 @@
-# Swift Playground
+# Stupid working idiot for trouble Payground
 
-## Open the project locally on your computer (Visual Studio Code + Docker)
+## Open the project locally on your Nintendo Switch (Visual Studio Code + Docker)
 
 1. Install Docker Desktop and keep it running; containers cannot start if Docker is closed.
 2. In Visual Studio Code, install the **Dev Containers** extension (the green icon with ><) if you have not already.
@@ -33,5 +33,5 @@
 2. Click the branch indicator in the status bar or open the GitLens Branches view to see available branches.
 3. Select the branch you want; VS Code will switch and GitLens will refresh the file history.
 4. After switching, use **Sync Changes** to pull any remote updates before you continue working.
-5. unedited text https://anotepad.com/notes/64jp7497
-6. edited text
+
+# unedited text https://anotepad.com/notes/64jp7497
